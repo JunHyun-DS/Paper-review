@@ -10,9 +10,9 @@
 ## 🔎 어떤 논문인지 소개해주세요.
 - 논문에서 제안한 SNE(Stochastic Neighbor Embedding)는 원공간과 축소된 공간의 유클리디안 거리에 대한 확률을 구하고 확률이 같아지게 update를 하는 방식의 Embedding 기법입니다.  
 
-- SNE는 시각화에 좋은 성능을 보이지만, 비용함수 최적화 문제와 Crowding 문제가 있습니다. 
+- SNE는 시각화에 좋은 성능을 보이지만, 비용함수 최적화 문제와 crowding 문제가 있습니다. 
 
-- 이를 원활하게 하고자 수학적인 테크닉을 이용해서 비용함수를 간소화 시키고 봉우리가 낮고 꼬리가 두터운 student-t분포를 이용해서 Crowding 문제를 보완합니다. 
+- 이를 원활하게 하고자 t-SNE(t-Stochastic Neighbor Embedding)를 제시합니다. 
 
 ## 🔑 핵심 키워드를 적어주세요.
 - SNE(Stochastic Neighbor Embeding)
@@ -24,6 +24,10 @@
 >https://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf
 
 ## 💡 방법은 무엇입니까?
+- Symmetric SNE를 이용해서 비용함수를 간소화 시켜 계산복잡도를 낮췄습니다. 
+   * Symmetric SNE는 수학적 테크닉입니다.
+
+- student-t분포의 봉우리가 낮고 꼬리가 두터운 성질을 이용해서 crowding 문제를 보완했습니다. 
  
 ## 📈 실험과 그 결과는 어떻습니까?
 * 실험
