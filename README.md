@@ -9,4 +9,4 @@
 
 ## Embedding
 
-- t-sne
+- Visualizing Data using t-SNE
