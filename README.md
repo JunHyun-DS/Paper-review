@@ -8,3 +8,5 @@
 systematic review의 경우 달라질 수 있음.
 
 # 📄Paper
+
+Embedding
