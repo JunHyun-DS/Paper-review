@@ -9,4 +9,4 @@
 
 ### Embedding
 
-- [Visualizing Data using t-SNE]()
+- [Visualizing Data using t-SNE](https://github.com/JunHyun-DS/Paper-review/blob/master/Paper/Visualizing%20Data%20using%20t-SNE.md)
