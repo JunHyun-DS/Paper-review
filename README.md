@@ -8,3 +8,5 @@
 # 📄Paper
 
 ## Embedding
+
+- t-sne
