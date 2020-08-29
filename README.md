@@ -5,7 +5,7 @@
 >- 제목, 요약(원본), 키워드, 소개, 논문 URL [｢GO｣](https://github.com/koptimizer/my_PaperLog/blob/master/.github/ISSUE_TEMPLATE/paper_temp.md)
 >- 방법, 결과, 차후 연구방향 및 보완점, novelty와 배운 점, 궁금한 점, 중요 레퍼런스 URL [｢GO｣](https://github.com/koptimizer/my_PaperLog/blob/master/review_form.md)
 
-## 📄 Paper
+## 📈 Paper
 
 ### Embedding
 
