@@ -12,7 +12,7 @@
 
 - SNE는 시각화에 좋은 성능을 보이지만, 비용함수 최적화 문제와 crowding 문제가 있습니다. 
 
-- 이를 원활하게 하고자 t-SNE(t-Stochastic Neighbor Embedding)를 제합니다. 
+- 이를 원활하게 하고자 t-SNE(t-Stochastic Neighbor Embedding)를 제안합니다. 
 
 ## 🔑 핵심 키워드를 적어주세요.
 - SNE(Stochastic Neighbor Embeding)
