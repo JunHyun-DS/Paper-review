@@ -31,13 +31,13 @@
    * crowding 문제는 거리의 멀고 가까운 개념이 붕괴되는 것을 의미합니다. 
  
 ## 📈 실험과 그 결과는 어떻습니까?
-* 실험
+- 실험
 
-  MNIST의 손글씨 데이터, Olivetti의 얼굴 데이터 등의 데이터를 이용해서 다른 embedding 기법인 Sammon mapping, Isomap, LLE랑 비교해서 시각화 성능을 평가했습니다. 
+    * MNIST의 손글씨 데이터, Olivetti의 얼굴 데이터 등의 데이터를 이용해서 다른 embedding 기법인 Sammon mapping, Isomap, LLE랑 비교해서 시각화 성능을 평가했습니다. 
 
-* 결과 
+- 결과 
 
-  검토 중
+    * 검토 중
 
 ## 📂 차후 연구방향이나 보완점은 무엇입니까?
 - t-SNE는 일반적인 경우에 성능이 불명확하다
