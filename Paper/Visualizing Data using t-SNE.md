@@ -11,7 +11,7 @@
 ## 🔑 핵심 키워드를 적어주세요.
 
 ## 📎 URL
-https://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf
+>https://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf
 
 ## 💡 방법은 무엇입니까?
  
