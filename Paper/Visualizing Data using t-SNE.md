@@ -1,6 +1,6 @@
 ## 📋 논문의 정보를 알려주세요.
 
-- Visualizing Data using t-SNE 
+>- Visualizing Data using t-SNE 
 - Laurens van der Maaten, Geoffrey Hinton
 - 9(Nov):2579--2605, 2008.
 
