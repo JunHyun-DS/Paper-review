@@ -10,3 +10,7 @@
 ### Embedding
 
 >- [Visualizing Data using t-SNE](https://github.com/JunHyun-DS/Paper-review/blob/master/Paper/Visualizing%20Data%20using%20t-SNE.md)
+
+### Optimization
+
+>- [베이지안 최적화 논문URL](https://drive.google.com/viewerng/viewer?url=https://www.cs.ox.ac.uk/people/nando.defreitas/publications/BayesOptLoop.pdf)
