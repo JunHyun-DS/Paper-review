@@ -13,4 +13,5 @@
 
 ### Optimization
 
->- [베이지안 최적화 논문 URL](https://drive.google.com/viewerng/viewer?url=https://www.cs.ox.ac.uk/people/nando.defreitas/publications/BayesOptLoop.pdf)
+>- 준비중
+- 베이지안 최적화 논문 URL(https://drive.google.com/viewerng/viewer?url=https://www.cs.ox.ac.uk/people/nando.defreitas/publications/BayesOptLoop.pdf)
